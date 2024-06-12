@@ -64,3 +64,21 @@ body, .card-body{
     width: 40px;
     border-radius: 5px;
 }
+.s{
+    background-color: #D6E6F2;
+}
+
+
+
+/*-----------------------------------------------------------------------*/
+.art{
+    height: 300;
+    width: 200;
+    border-radius: 5px;
+}
+.art-box{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    flex-wrap: wrap;
+    gap: 20px;
+}
